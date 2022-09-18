@@ -130,7 +130,7 @@ main article {
     font-size: 36px;
 }
 
-aside  {
+.article  {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
